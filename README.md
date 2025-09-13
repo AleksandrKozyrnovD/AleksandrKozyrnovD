@@ -7,10 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AleksandrKozyrnovD&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrKozyrnovD&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light?quote=Is%20the%20head%20an%20extension%20of%20the%20neck%2C%20or%20is%20the%20neck%20an%20extension%20of%20the%20head%3F)
-
-
 
 
 <!--
